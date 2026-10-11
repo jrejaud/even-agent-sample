@@ -1,0 +1,12 @@
+{
+  "name": "even-agent-sample",
+  "version": "1.0.0",
+  "description": "Use your own AI agent as the assistant on Even Realities G2 glasses",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "engines": { "node": ">=18" }
+}
